@@ -6,7 +6,7 @@ from pathlib import Path
 from PIL import Image
 
 # root_path = "images/kishino/"
-root_path = 'images/kishino/2024/'
+root_path = 'images/kishino/20250113_1915/'
 pattern = "*_V.jpg"
 
 

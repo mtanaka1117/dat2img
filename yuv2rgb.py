@@ -5,7 +5,7 @@ import cv2
 from pathlib import Path
 
 
-root_path = "images/kishino/"
+root_path = "/home/srv-admin/images/kishino/20250116_1553/"
 pattern = "*_V.dat"
 
 file_list = []
