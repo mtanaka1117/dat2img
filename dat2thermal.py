@@ -6,7 +6,7 @@ import glob
 MIN_TEMP = 90
 MAX_TEMP = 115
 
-root_path = "/home/srv-admin/images/kishino/20250119_1639/"
+root_path = "/home/srv-admin/images/kishino/20250116_1553/"
 pattern = "*_T.dat"
 
 file_list = []

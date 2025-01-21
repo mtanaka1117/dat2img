@@ -1,7 +1,7 @@
 import os
 import glob
 
-root_path = "/home/srv-admin/images/kishino/20250119_1639/"
+root_path = "/home/srv-admin/images/kishino/20250120_1958/"
 pattern = "*_V.dat"
 
 file_list = []
